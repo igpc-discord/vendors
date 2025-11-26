@@ -9,6 +9,7 @@ Join India's very own peripherals community on Discord >>> [IGPC](https://discor
  *  [https://www.genesispc.in/](https://www.genesispc.in/ "https://www.genesispc.in/")
       * Discord server: [Genesis Discord](https://discord.gg/GhzYcSQJSK)
  *  [https://www.meckeys.com/](https://www.meckeys.com/ "https://www.meckeys.com/")
+      * Discord server: [Meckeys Discord](https://discord.gg/s9CJwDdhjb)
  *  [https://www.amazon.in/](https://www.amazon.in/ "https://www.amazon.in/")
       * Discord server: Amazon Discord... wait are you serious?
  *  [https://stackskb.com/](https://stackskb.com/ "https://stackskb.com/")
