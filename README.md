@@ -6,6 +6,7 @@
   <h3 align="center">Indian Gaming Peripherals Community</h3>
    
    Join India's very own peripherals community on Discord 
+   
    [IGPC Discord Server Link](https://discord.gg/AaTQUdfEEB)
 </div>
 
