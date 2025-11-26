@@ -9,7 +9,6 @@
   <p align="center">
 
 </div>
-# Vendors
 Join India's very own peripherals community on Discord >>> [IGPC](https://discord.gg/AaTQUdfEEB)
 
 * [https://xtro.gg/](https://xtro.gg/ "https://xtro.gg/")
