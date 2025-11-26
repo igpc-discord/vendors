@@ -1,5 +1,5 @@
 # vendors
-Join India's very own peripherals community on Discord * > [IGPC](https://discord.gg/AaTQUdfEEB)
+Join India's very own peripherals community on Discord >>> [IGPC](https://discord.gg/AaTQUdfEEB)
 
 * [https://xtro.gg/](https://xtro.gg/ "https://xtro.gg/")
    * Discord server:
@@ -24,8 +24,4 @@ Join India's very own peripherals community on Discord * > [IGPC](https://discor
       * Discord server: [Keyfinity Discord](https://discord.gg/7SBTwRJGMq)
  *  [https://nmpc.in/](https://nmpc.in/ "https://nmpc.in/")
       * Discord server: [NMPC Discord](https://discord.gg/GAHVd73mfW)
- *  [https://mykeycap.in/](https://mykeycap.in/ "https://mykeycap.in/")
 
-**For Cables**
-
- *  [https://www.kablemakers.com/usb* cables](https://www.kablemakers.com/usb* cables "https://www.kablemakers.com/usb* cables") 
