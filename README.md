@@ -1,4 +1,3 @@
-
 <div align="center">
   <a href="Indian Gaming Peripherals Community">
     <img src="Logos/IGPC-logo.png" alt="Logo" width="90" height="90">
@@ -8,7 +7,7 @@
 
 
 </div>
-Join India's very own peripherals community on Discord >>> [IGPC](https://discord.gg/AaTQUdfEEB)
+# Join India's very own peripherals community on Discord >>> [IGPC](https://discord.gg/AaTQUdfEEB)
 
 * [https://xtro.gg/](https://xtro.gg/ "https://xtro.gg/")
    * Discord server:
