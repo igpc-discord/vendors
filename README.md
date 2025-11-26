@@ -1,3 +1,14 @@
+<br />
+<div align="center">
+  <a href="Indian Gaming Peripherals Community">
+    <img src="logos/IGPC-logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Indian Gaming Peripherals Community</h3>
+
+  <p align="center">
+
+
 # Vendors
 Join India's very own peripherals community on Discord >>> [IGPC](https://discord.gg/AaTQUdfEEB)
 
