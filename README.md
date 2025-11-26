@@ -19,7 +19,6 @@ Join India's very own peripherals community on Discord >>> [IGPC](https://discor
       * Discord server: [NeoMacro Discord](https://discord.gg/6jUdvPQ9EP)
  *  [https://acekbd.com/ ](https://acekbd.com/ "https://acekbd.com/")
  *  [https://curiositycaps.in/](https://curiositycaps.in/ "https://curiositycaps.in")
- *  [https://esckey.in/](https://esckey.in/ "https://esckey.in/")
  *  [https://ctrlshiftstore.com/](https://ctrlshiftstore.com/ "https://ctrlshiftstore.com/")
       * Discord server: [Ctrlshiftstore Discord](https://discord.gg/ue2xbGHn7w)
  *  [https://www.keebsmod.com/](https://www.keebsmod.com/ "https://www.keebsmod.com/")
