@@ -10,7 +10,7 @@
    [IGPC Discord Server Link](https://discord.gg/AaTQUdfEEB)
 </div>
 
-## Vendors
+## Vendors List
 * [https://xtro.gg/](https://xtro.gg/ "https://xtro.gg/")
    * Discord server: [Xtro Discord](https://discord.gg/zB2CxaSWGD)
    
