@@ -26,4 +26,5 @@ Join India's very own peripherals community on Discord >>> [IGPC](https://discor
       * Discord server: [Keyfinity Discord](https://discord.gg/7SBTwRJGMq)
  *  [https://nmpc.in/](https://nmpc.in/ "https://nmpc.in/")
       * Discord server: [NMPC Discord](https://discord.gg/GAHVd73mfW)
+ *  [https://hardwarenest.in/](https://hardwarenest.in/)
 
