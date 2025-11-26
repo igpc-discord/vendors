@@ -8,7 +8,7 @@
 
   <p align="center">
 
-
+<br />
 # Vendors
 Join India's very own peripherals community on Discord >>> [IGPC](https://discord.gg/AaTQUdfEEB)
 
