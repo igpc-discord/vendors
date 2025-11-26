@@ -12,7 +12,7 @@
 
 ## Vendors
 * [https://xtro.gg/](https://xtro.gg/ "https://xtro.gg/")
-   * Discord server:
+   * Discord server:[Xtro Discord](https://discord.gg/zB2CxaSWGD)
    
  *  [https://mykeycap.in/](https://mykeycap.in/ "https://mykeycap.in/")
  
