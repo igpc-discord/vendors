@@ -4,11 +4,13 @@
   </a>
 
   <h3 align="center">Indian Gaming Peripherals Community</h3>
-
-
+   <p align="center">
+  Join India's very own peripherals community on Discord >>> [IGPC](https://discord.gg/AaTQUdfEEB)
+   </p>
 </div>
-# Join India's very own peripherals community on Discord >>> [IGPC](https://discord.gg/AaTQUdfEEB)
 
+ Join India's very own peripherals community on Discord >>> [IGPC](https://discord.gg/AaTQUdfEEB)
+## Vendors
 * [https://xtro.gg/](https://xtro.gg/ "https://xtro.gg/")
    * Discord server:
  *  [https://mykeycap.in/](https://mykeycap.in/ "https://mykeycap.in/")
