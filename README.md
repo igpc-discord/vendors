@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="Indian Gaming Peripherals Community">
-    <img src="Logos/IGPC-logo.png" alt="Logo">
+    <img src="Logos/IGPC-logo.png" alt="Logo" width="90" height="90">
   </a>
 
   <h3 align="center">Indian Gaming Peripherals Community</h3>
