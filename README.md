@@ -1,8 +1,8 @@
 # vendors
 Join India's very own peripherals community on Discord * > [IGPC](https://discord.gg/AaTQUdfEEB)
 
- *  [https://xtro.gg/](https://xtro.gg/ "https://xtro.gg/")
-  * Discord server:
+* [https://xtro.gg/](https://xtro.gg/ "https://xtro.gg/")
+ * Discord server:
  *  [https://mykeycap.in/](https://mykeycap.in/ "https://mykeycap.in/")
  *  [https://waimers.in/](https://waimers.in/ "https://waimers.in/")
  *  [https://keychron.in/](https://keychron.in/ "https://keychron.in/") 
