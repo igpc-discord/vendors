@@ -17,6 +17,7 @@
  *  [https://mykeycap.in/](https://mykeycap.in/ "https://mykeycap.in/")
  
  *  [https://waimers.in/](https://waimers.in/ "https://waimers.in/")
+   * Discord server: [Waimers Discord](https://discord.gg/Z7NemMSjPG)
  
  *  [https://keychron.in/](https://keychron.in/ "https://keychron.in/") 
  
