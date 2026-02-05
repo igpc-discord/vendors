@@ -14,7 +14,7 @@
 * [https://xtro.gg/](https://xtro.gg/ "https://xtro.gg/")
    * Discord server: [Xtro Discord](https://discord.gg/zB2CxaSWGD)
    
- *  [https://mykeycap.in/](https://mykeycap.in/ "https://mykeycap.in/")
+ *  [https://keyora.store/](https://keyora.store/ "https://keyora.store/")
  
  *  [https://waimers.in/](https://waimers.in/ "https://waimers.in/")
       * Discord server: [Waimers Discord](https://discord.gg/Z7NemMSjPG)
@@ -29,6 +29,9 @@
       
  *  [https://www.loadout.co.in/](https://www.loadout.co.in/)
       * Discord server: [Loadout Discord](https://discord.gg/SKBKPpXs54)
+      
+ *  [https://clawgears.in/](https://clawgears.in/)
+      * Discord server: [ClawGears Discord](https://discord.gg/stbzCMkyXW)
       
  *  [https://www.amazon.in/](https://www.amazon.in/ "https://www.amazon.in/")
       * Discord server: Amazon Discord... wait are you serious?
@@ -54,4 +57,5 @@
       * Discord server: [NMPC Discord](https://discord.gg/GAHVd73mfW)
       
  *  [https://hardwarenest.in/](https://hardwarenest.in/)
-
+      
+ *  [https://ryugear.in/](https://ryugear.in/)
