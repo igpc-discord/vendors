@@ -33,8 +33,6 @@
  *  [https://clawgears.in/](https://clawgears.in/)
       * Discord server: [ClawGears Discord](https://discord.gg/stbzCMkyXW)
       
- *  [https://www.amazon.in/](https://www.amazon.in/ "https://www.amazon.in/")
-      * Discord server: Amazon Discord... wait are you serious?
       
  *  [https://stackskb.com/](https://stackskb.com/ "https://stackskb.com/")
  
